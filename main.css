@@ -1,0 +1,15 @@
+figcaption {
+    color: gray;
+}
+
+h1 {
+    text-transform: capitalize;
+}
+
+p {
+    font-family: Georgia, serif;
+}
+
+ul {
+    color: blue;
+}
